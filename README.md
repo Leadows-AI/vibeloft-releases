@@ -9,7 +9,9 @@ This repository holds the Vibeloft installers and release notes. The source code
 ## Download
 
 <!-- latest:start -->
-No release has been published yet.
+**Latest version: 0.6.0** (25 November 2026)
+
+[Download Vibeloft-Setup-0.6.0.exe](https://github.com/Leadows-AI/vibeloft-releases/releases/download/v0.6.0/Vibeloft-Setup-0.6.0.exe) for Windows
 <!-- latest:end -->
 
 All versions are on the [Releases](https://github.com/Leadows-AI/vibeloft-releases/releases) page.
@@ -45,7 +47,13 @@ Back it up by copying that file. Updating or reinstalling Vibeloft keeps it.
 
 <!-- changelog -->
 
-<!-- last-commit: a5c4aa2 -->
+### 0.6.0 (25 November 2026)
+
+- Archive or delete a project
+- Fonts: choose interface and code fonts from Google Fonts
+- Setup check, Claude Code hooks, and Claude jobs without the Agent SDK
+
+<!-- last-commit: d0c7ae8 -->
 
 ## About
 
