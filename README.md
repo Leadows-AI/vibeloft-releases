@@ -22,6 +22,10 @@ All versions are on the [Releases](https://github.com/Leadows-AI/vibeloft-releas
 2. Run it. Vibeloft installs for your Windows user (no admin rights needed); you can change the folder. It adds Start menu and desktop shortcuts.
 3. Windows may show **"Windows protected your PC"** because the installer isn't code-signed yet. Click **More info**, then **Run anyway**.
 
+### Portable version
+
+Each release also has `Vibeloft-Portable-<version>.exe`, which runs without installing: put it anywhere (a USB stick works) and double-click it. It keeps your data in the same place as the installed app. The portable version doesn't update itself; download the new one from the latest release when you want to update. Windows may show the same SmartScreen warning.
+
 ## What you need
 
 - **Claude Code**, signed in. Vibeloft uses the Claude Code installed on your computer.
@@ -32,7 +36,14 @@ On first start, Vibeloft checks for these and can install any that are missing.
 
 ## Updates
 
-Vibeloft updates itself. Every 4 hours it checks for a new version and downloads it in the background. The update installs when you close Vibeloft, or straight away if you click **Restart to update** in the sidebar. To check right now, open **Settings → Updates → Check now**.
+The installed Vibeloft updates itself. Shortly after it starts and every 4 hours, it reads the `latest.yml` manifest of the newest release here, downloads the installer it names and checks it. The update installs when you close Vibeloft, or straight away if you click **Restart to update** in the sidebar.
+
+In **Settings → About & updates**:
+
+- **Check now** looks for a new version straight away.
+- Untick **Check for and download updates automatically** to stop automatic checks. **Check now** still works. (From version 0.7.0.)
+
+The portable version never updates itself.
 
 ## Your data
 
