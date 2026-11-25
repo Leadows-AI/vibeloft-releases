@@ -53,7 +53,7 @@ Back it up by copying that file. Updating or reinstalling Vibeloft keeps it.
 - Fonts: choose interface and code fonts from Google Fonts
 - Setup check, Claude Code hooks, and Claude jobs without the Agent SDK
 
-<!-- last-commit: d0c7ae8 -->
+<!-- last-commit: 33b2d0d -->
 
 ## About
 
