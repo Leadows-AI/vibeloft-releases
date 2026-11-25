@@ -9,10 +9,10 @@ This repository holds the Vibeloft installers and release notes. The source code
 ## Download
 
 <!-- latest:start -->
-**Latest version: 0.12.0** (25 November 2026)
+**Latest version: 0.13.0** (26 November 2026)
 
-- Windows installer (recommended, updates itself): [Vibeloft-Setup-0.12.0.exe](https://github.com/Leadows-AI/vibeloft-releases/releases/download/v0.12.0/Vibeloft-Setup-0.12.0.exe)
-- Windows portable (no install, no automatic updates): [Vibeloft-Portable-0.12.0.exe](https://github.com/Leadows-AI/vibeloft-releases/releases/download/v0.12.0/Vibeloft-Portable-0.12.0.exe)
+- Windows installer (recommended, updates itself): [Vibeloft-Setup-0.13.0.exe](https://github.com/Leadows-AI/vibeloft-releases/releases/download/v0.13.0/Vibeloft-Setup-0.13.0.exe)
+- Windows portable (no install, no automatic updates): [Vibeloft-Portable-0.13.0.exe](https://github.com/Leadows-AI/vibeloft-releases/releases/download/v0.13.0/Vibeloft-Portable-0.13.0.exe)
 <!-- latest:end -->
 
 All versions are on the [Releases](https://github.com/Leadows-AI/vibeloft-releases/releases) page.
@@ -59,6 +59,10 @@ Back it up by copying that file. Updating or reinstalling Vibeloft keeps it.
 
 <!-- changelog -->
 
+### 0.13.0 (26 November 2026)
+
+- Streamlined project window: one-row header with More tab menu, single + menu in the terminal toolbar, git/Claude footer
+
 ### 0.12.0 (25 November 2026)
 
 - Mobile tab for mobile app projects: build an APK ("for this phone" builds several times faster), install it on a connected phone, device logs, and Fix with Claude / Send crash to Claude
@@ -92,7 +96,7 @@ Back it up by copying that file. Updating or reinstalling Vibeloft keeps it.
 - Fonts: choose interface and code fonts from Google Fonts
 - Setup check, Claude Code hooks, and Claude jobs without the Agent SDK
 
-<!-- last-commit: fd322ae -->
+<!-- last-commit: 8e5474a -->
 
 ## About
 
