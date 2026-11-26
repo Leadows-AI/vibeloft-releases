@@ -9,10 +9,10 @@ This repository holds the Vibeloft installers and release notes. The source code
 ## Download
 
 <!-- latest:start -->
-**Latest version: 0.14.0** (26 November 2026)
+**Latest version: 0.15.0** (26 November 2026)
 
-- Windows installer (recommended, updates itself): [Vibeloft-Setup-0.14.0.exe](https://github.com/Leadows-AI/vibeloft-releases/releases/download/v0.14.0/Vibeloft-Setup-0.14.0.exe)
-- Windows portable (no install, no automatic updates): [Vibeloft-Portable-0.14.0.exe](https://github.com/Leadows-AI/vibeloft-releases/releases/download/v0.14.0/Vibeloft-Portable-0.14.0.exe)
+- Windows installer (recommended, updates itself): [Vibeloft-Setup-0.15.0.exe](https://github.com/Leadows-AI/vibeloft-releases/releases/download/v0.15.0/Vibeloft-Setup-0.15.0.exe)
+- Windows portable (no install, no automatic updates): [Vibeloft-Portable-0.15.0.exe](https://github.com/Leadows-AI/vibeloft-releases/releases/download/v0.15.0/Vibeloft-Portable-0.15.0.exe)
 <!-- latest:end -->
 
 All versions are on the [Releases](https://github.com/Leadows-AI/vibeloft-releases/releases) page.
@@ -59,6 +59,11 @@ Back it up by copying that file. Updating or reinstalling Vibeloft keeps it.
 
 <!-- changelog -->
 
+### 0.15.0 (26 November 2026)
+
+- Claude tokens and cost per project
+- Add graphify knowledge graph (graph.json, graph.html, GRAPH_REPORT.md)
+
 ### 0.14.0 (26 November 2026)
 
 - Material file icons, tighter layout, header help, Settings tiles and tabs, About Leadows
@@ -100,7 +105,7 @@ Back it up by copying that file. Updating or reinstalling Vibeloft keeps it.
 - Fonts: choose interface and code fonts from Google Fonts
 - Setup check, Claude Code hooks, and Claude jobs without the Agent SDK
 
-<!-- last-commit: d8ed69c -->
+<!-- last-commit: f2ebd46 -->
 
 ## About
 
