@@ -9,10 +9,10 @@ This repository holds the Vibeloft installers and release notes. The source code
 ## Download
 
 <!-- latest:start -->
-**Latest version: 0.15.0** (26 November 2026)
+**Latest version: 0.16.0** (26 November 2026)
 
-- Windows installer (recommended, updates itself): [Vibeloft-Setup-0.15.0.exe](https://github.com/Leadows-AI/vibeloft-releases/releases/download/v0.15.0/Vibeloft-Setup-0.15.0.exe)
-- Windows portable (no install, no automatic updates): [Vibeloft-Portable-0.15.0.exe](https://github.com/Leadows-AI/vibeloft-releases/releases/download/v0.15.0/Vibeloft-Portable-0.15.0.exe)
+- Windows installer (recommended, updates itself): [Vibeloft-Setup-0.16.0.exe](https://github.com/Leadows-AI/vibeloft-releases/releases/download/v0.16.0/Vibeloft-Setup-0.16.0.exe)
+- Windows portable (no install, no automatic updates): [Vibeloft-Portable-0.16.0.exe](https://github.com/Leadows-AI/vibeloft-releases/releases/download/v0.16.0/Vibeloft-Portable-0.16.0.exe)
 <!-- latest:end -->
 
 All versions are on the [Releases](https://github.com/Leadows-AI/vibeloft-releases/releases) page.
@@ -58,6 +58,10 @@ Back it up by copying that file. Updating or reinstalling Vibeloft keeps it.
 ## Release notes
 
 <!-- changelog -->
+
+### 0.16.0 (26 November 2026)
+
+- Try the new Vibeloft (field test): Settings → This computer has a card to download Vibeloft rebuilt on Rust. It installs next to this app with a copy of your projects, so nothing here changes and you can switch back any time.
 
 ### 0.15.0 (26 November 2026)
 
