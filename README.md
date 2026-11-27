@@ -1,18 +1,20 @@
 # Vibeloft
 
+> **Vibeloft has moved.** It is now open source (Apache License 2.0) at **[github.com/Leadows-AI/vibeloft](https://github.com/Leadows-AI/vibeloft)**. New versions, downloads and issues are there; this repository is no longer updated. Installed copies move over by themselves when they update to 1.0.0.
+
 **A room for every project.** A desktop workspace for Claude Code projects, by Leadows.
 
 Vibeloft keeps every customer project in one place: the code, a terminal running Claude Code, features and bugs, delivery dates, time tracking and status reports.
 
-This repository holds the Vibeloft installers and release notes. The source code is kept separately.
+This repository holds the Vibeloft installers and release notes. Since 1.0.0 everything lives in [Leadows-AI/vibeloft](https://github.com/Leadows-AI/vibeloft).
 
 ## Download
 
 <!-- latest:start -->
-**Latest version: 0.21.1** (27 November 2026)
+**Latest version: 1.0.0** (27 November 2026). Newer versions: [Leadows-AI/vibeloft releases](https://github.com/Leadows-AI/vibeloft/releases).
 
-- Windows installer (recommended, updates itself): [Vibeloft-Setup-0.21.1.exe](https://github.com/Leadows-AI/vibeloft-releases/releases/download/v0.21.1/Vibeloft-Setup-0.21.1.exe)
-- Windows portable (no install, no automatic updates): [Vibeloft-Portable-0.21.1.exe](https://github.com/Leadows-AI/vibeloft-releases/releases/download/v0.21.1/Vibeloft-Portable-0.21.1.exe)
+- Windows installer (recommended, updates itself): [Vibeloft-Setup-1.0.0.exe](https://github.com/Leadows-AI/vibeloft/releases/download/v1.0.0/Vibeloft-Setup-1.0.0.exe)
+- Windows portable (no install, no automatic updates): [Vibeloft-Portable-1.0.0.exe](https://github.com/Leadows-AI/vibeloft/releases/download/v1.0.0/Vibeloft-Portable-1.0.0.exe)
 <!-- latest:end -->
 
 All versions are on the [Releases](https://github.com/Leadows-AI/vibeloft-releases/releases) page.
@@ -58,6 +60,10 @@ Back it up by copying that file. Updating or reinstalling Vibeloft keeps it.
 ## Release notes
 
 <!-- changelog -->
+
+### 1.0.0 (27 November 2026)
+
+- First open-source release under the Apache License 2.0. Vibeloft moved to https://github.com/Leadows-AI/vibeloft.
 
 ### 0.21.1 (27 November 2026)
 
